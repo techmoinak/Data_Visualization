@@ -1,0 +1,252 @@
+,Country,official_name_en,Capital,Continent,longitude,latitude
+0,,Channel Islands,,,33.791638,-84.389488
+1,,Sark,,,33.791638,-84.389488
+2,Afghanistan,Afghanistan,Kabul,AS,33.93911,67.709953
+3,Albania,Albania,Tirana,EU,41.153332,20.168331
+4,Algeria,Algeria,Algiers,AF,28.033886,1.659626
+5,American Samoa,American Samoa,Pago Pago,OC,-14.270972,-170.132217
+6,Andorra,Andorra,Andorra la Vella,EU,42.506285,1.521801
+7,Angola,Angola,Luanda,AF,-11.202692,17.873887
+8,Anguilla,Anguilla,The Valley,NA,18.220554,-63.068615
+9,Antarctica,,,AN,-82.862752,135
+10,Antigua & Barbuda,Antigua and Barbuda,St. John's,NA,17.060816,-61.796428
+11,Argentina,Argentina,Buenos Aires,SA,-38.416097,-63.616672
+12,Armenia,Armenia,Yerevan,AS,40.069099,45.038189
+13,Aruba,Aruba,Oranjestad,NA,12.52111,-69.968338
+14,Australia,Australia,Canberra,OC,-25.274398,133.775136
+15,Austria,Austria,Vienna,EU,47.516231,14.550072
+16,Azerbaijan,Azerbaijan,Baku,AS,40.143105,47.576927
+17,Bahamas,Bahamas,Nassau,NA,25.03428,-77.39628
+18,Bahrain,Bahrain,Manama,AS,26.0667,50.5577
+19,Bangladesh,Bangladesh,Dhaka,AS,23.684994,90.356331
+20,Barbados,Barbados,Bridgetown,NA,13.193887,-59.543198
+21,Belarus,Belarus,Minsk,EU,53.709807,27.953389
+22,Belgium,Belgium,Brussels,EU,50.503887,4.469936
+23,Belize,Belize,Belmopan,NA,17.189877,-88.49765
+24,Benin,Benin,Porto-Novo,AF,9.30769,2.315834
+25,Bermuda,Bermuda,Hamilton,NA,32.3078,-64.7505
+26,Bhutan,Bhutan,Thimphu,AS,27.514162,90.433601
+27,Bolivia,Bolivia (Plurinational State of),Sucre,SA,-16.290154,-63.588653
+28,Bosnia,Bosnia and Herzegovina,Sarajevo,EU,43.915886,17.679076
+29,Botswana,Botswana,Gaborone,AF,-22.328474,24.684866
+30,Bouvet Island,,,AN,-54.4207915,3.3464497
+31,Brazil,Brazil,Brasilia,SA,-14.235004,-51.92528
+32,British Indian Ocean Territory,,Diego Garcia,AS,-6.343194,71.876519
+33,British Virgin Islands,British Virgin Islands,Road Town,NA,18.420695,-64.639968
+34,Brunei,Brunei Darussalam,Bandar Seri Begawan,AS,4.535277,114.727669
+35,Bulgaria,Bulgaria,Sofia,EU,42.733883,25.48583
+36,Burkina Faso,Burkina Faso,Ouagadougou,AF,12.238333,-1.561593
+37,Burundi,Burundi,Bujumbura,AF,-3.373056,29.918886
+38,Cambodia,Cambodia,Phnom Penh,AS,12.565679,104.990963
+39,Cameroon,Cameroon,Yaounde,AF,7.369722,12.354722
+40,Canada,Canada,Ottawa,NA,56.130366,-106.346771
+41,Cape Verde,Cabo Verde,Praia,AF,16.5388,-23.0418
+42,Caribbean Netherlands,"Bonaire, Sint Eustatius and Saba",,NA,12.1783611,-68.2385339
+43,Cayman Islands,Cayman Islands,George Town,NA,19.3133,-81.2546
+44,Central African Republic,Central African Republic,Bangui,AF,6.611111,20.939444
+45,Chad,Chad,N'Djamena,AF,15.454166,18.732207
+46,Chile,Chile,Santiago,SA,-35.675147,-71.542969
+47,China,China,Beijing,AS,35.86166,104.195397
+48,Christmas Island,,Flying Fish Cove,AS,-10.447525,105.690449
+49,Cocos (Keeling) Islands,,West Island,AS,-12.164165,96.870956
+50,Colombia,Colombia,Bogota,SA,4.570868,-74.297333
+51,Comoros,Comoros,Moroni,AF,-11.6455,43.3333
+52,Congo - Brazzaville,Congo,Brazzaville,AF,-0.228021,15.827659
+53,Congo - Kinshasa,Democratic Republic of the Congo,Kinshasa,AF,-4.038333,21.758664
+54,Cook Islands,Cook Islands,Avarua,OC,-21.236736,-159.777671
+55,Costa Rica,Costa Rica,San Jose,NA,9.748917,-83.753428
+56,Croatia,Croatia,Zagreb,EU,45.1,15.2000001
+57,Cuba,Cuba,Havana,NA,21.521757,-77.781167
+58,Curaçao,Curaçao,Willemstad,NA,12.16957,-68.99002
+59,Cyprus,Cyprus,Nicosia,EU,35.126413,33.429859
+60,Czech Republic,Czechia,Prague,EU,49.817492,15.472962
+61,Côte d’Ivoire,Côte d'Ivoire,Yamoussoukro,AF,7.539989,-5.54708
+62,Denmark,Denmark,Copenhagen,EU,56.26392,9.501785
+63,Djibouti,Djibouti,Djibouti,AF,11.825138,42.590275
+64,Dominica,Dominica,Roseau,NA,15.414999,-61.370976
+65,Dominican Republic,Dominican Republic,Santo Domingo,NA,18.735693,-70.162651
+66,Ecuador,Ecuador,Quito,SA,-1.831239,-78.183406
+67,Egypt,Egypt,Cairo,AF,26.820553,30.802498
+68,El Salvador,El Salvador,San Salvador,NA,13.794185,-88.89653
+69,Equatorial Guinea,Equatorial Guinea,Malabo,AF,1.650801,10.267895
+70,Eritrea,Eritrea,Asmara,AF,15.179384,39.782334
+71,Estonia,Estonia,Tallinn,EU,58.595272,25.0136071
+72,Ethiopia,Ethiopia,Addis Ababa,AF,9.145,40.489673
+73,Falkland Islands,Falkland Islands (Malvinas),Stanley,SA,-51.796253,-59.523613
+74,Faroe Islands,Faeroe Islands,Torshavn,EU,61.892635,-6.9118061
+75,Fiji,Fiji,Suva,OC,-17.713371,178.065032
+76,Finland,Finland,Helsinki,EU,61.92411,25.7481511
+77,France,France,Paris,EU,46.227638,2.213749
+78,French Guiana,French Guiana,Cayenne,SA,3.933889,-53.125782
+79,French Polynesia,French Polynesia,Papeete,OC,-17.679742,-149.406843
+80,French Southern Territories,,Port-aux-Francais,AN,-49.280366,69.3485571
+81,Gabon,Gabon,Libreville,AF,-0.803689,11.609444
+82,Gambia,Gambia,Banjul,AF,13.443182,-15.310139
+83,Georgia,Georgia,Tbilisi,AS,32.1656221,-82.9000751
+84,Germany,Germany,Berlin,EU,51.165691,10.451526
+85,Ghana,Ghana,Accra,AF,7.946527,-1.023194
+86,Gibraltar,Gibraltar,Gibraltar,EU,36.140751,-5.353585
+87,Greece,Greece,Athens,EU,39.074208,21.824312
+88,Greenland,Greenland,Nuuk,NA,71.706936,-42.604303
+89,Grenada,Grenada,St. George's,NA,12.1165,-61.679
+90,Guadeloupe,Guadeloupe,Basse-Terre,NA,16.265,-61.551
+91,Guam,Guam,Hagatna,OC,13.444304,144.793731
+92,Guatemala,Guatemala,Guatemala City,NA,15.783471,-90.230759
+93,Guernsey,Guernsey,St Peter Port,EU,49.465691,-2.585278
+94,Guinea,Guinea,Conakry,AF,9.945587,-9.696645
+95,Guinea-Bissau,Guinea-Bissau,Bissau,AF,11.803749,-15.180413
+96,Guyana,Guyana,Georgetown,SA,4.860416,-58.93018
+97,Haiti,Haiti,Port-au-Prince,NA,18.971187,-72.285215
+98,Heard & McDonald Islands,,,AN,-53.08181,73.504158
+99,Honduras,Honduras,Tegucigalpa,NA,15.199999,-86.241905
+100,Hong Kong,"China, Hong Kong Special Administrative Region",Hong Kong,AS,22.396428,114.109497
+101,Hungary,Hungary,Budapest,EU,47.162494,19.5033041
+102,Iceland,Iceland,Reykjavik,EU,64.963051,-19.020835
+103,India,India,New Delhi,AS,20.593684,78.96288
+104,Indonesia,Indonesia,Jakarta,AS,-0.789275,113.921327
+105,Iran,Iran (Islamic Republic of),Tehran,AS,32.427908,53.688046
+106,Iraq,Iraq,Baghdad,AS,33.223191,43.679291
+107,Ireland,Ireland,Dublin,EU,53.1423672,-7.6920536
+108,Isle of Man,Isle of Man,Douglas,EU,54.236107,-4.548056
+109,Israel,Israel,Jerusalem,AS,31.046051,34.851612
+110,Italy,Italy,Rome,EU,41.87194,12.56738
+111,Jamaica,Jamaica,Kingston,NA,18.109581,-77.297508
+112,Japan,Japan,Tokyo,AS,36.204824,138.252924
+113,Jersey,Jersey,Saint Helier,EU,49.214439,-2.13125
+114,Jordan,Jordan,Amman,AS,30.585164,36.238414
+115,Kazakhstan,Kazakhstan,Astana,AS,48.019573,66.923684
+116,Kenya,Kenya,Nairobi,AF,-0.023559,37.906193
+117,Kiribati,Kiribati,Tarawa,OC,-3.370417,-168.734039
+118,Kuwait,Kuwait,Kuwait City,AS,29.31166,47.481766
+119,Kyrgyzstan,Kyrgyzstan,Bishkek,AS,41.20438,74.766098
+120,Laos,Lao People's Democratic Republic,Vientiane,AS,19.85627,102.495496
+121,Latvia,Latvia,Riga,EU,56.879635,24.603189
+122,Lebanon,Lebanon,Beirut,AS,33.854721,35.862285
+123,Lesotho,Lesotho,Maseru,AF,-29.609988,28.233608
+124,Liberia,Liberia,Monrovia,AF,6.428055,-9.429499
+125,Libya,Libya,Tripoli,AF,26.3351,17.228331
+126,Liechtenstein,Liechtenstein,Vaduz,EU,47.166,9.555373
+127,Lithuania,Lithuania,Vilnius,EU,55.169438,23.881275
+128,Luxembourg,Luxembourg,Luxembourg,EU,49.815273,6.129583
+129,Macau,"China, Macao Special Administrative Region",Macao,AS,22.198745,113.543873
+130,Macedonia,The former Yugoslav Republic of Macedonia,Skopje,EU,41.608635,21.745275
+131,Madagascar,Madagascar,Antananarivo,AF,-18.766947,46.869107
+132,Malawi,Malawi,Lilongwe,AF,-13.254308,34.301525
+133,Malaysia,Malaysia,Kuala Lumpur,AS,4.210484,101.975766
+134,Maldives,Maldives,Male,AS,3.202778,73.22068
+135,Mali,Mali,Bamako,AF,17.570692,-3.996166
+136,Malta,Malta,Valletta,EU,35.937496,14.375416
+137,Marshall Islands,Marshall Islands,Majuro,OC,7.131474,171.184478
+138,Martinique,Martinique,Fort-de-France,NA,14.641528,-61.024174
+139,Mauritania,Mauritania,Nouakchott,AF,21.00789,-10.940835
+140,Mauritius,Mauritius,Port Louis,AF,-20.348404,57.552152
+141,Mayotte,Mayotte,Mamoudzou,AF,-12.8275,45.166244
+142,Mexico,Mexico,Mexico City,NA,23.634501,-102.552784
+143,Micronesia,Micronesia (Federated States of),Palikir,OC,7.425554,150.550812
+144,Moldova,Republic of Moldova,Chisinau,EU,47.411631,28.369885
+145,Monaco,Monaco,Monaco,EU,43.7384176,7.4246158
+146,Mongolia,Mongolia,Ulan Bator,AS,46.862496,103.846656
+147,Montenegro,Montenegro,Podgorica,EU,42.708678,19.37439
+148,Montserrat,Montserrat,Plymouth,NA,16.742498,-62.187366
+149,Morocco,Morocco,Rabat,AF,31.791702,-7.09262
+150,Mozambique,Mozambique,Maputo,AF,-18.665695,35.529562
+151,Myanmar,Myanmar,Nay Pyi Taw,AS,21.916221,95.955974
+152,Namibia,Namibia,Windhoek,AF,-22.95764,18.49041
+153,Nauru,Nauru,Yaren,OC,-0.522778,166.931503
+154,Nepal,Nepal,Kathmandu,AS,28.394857,84.124008
+155,Netherlands,Netherlands,Amsterdam,EU,52.132633,5.291266
+156,New Caledonia,New Caledonia,Noumea,OC,-20.904305,165.618042
+157,New Zealand,New Zealand,Wellington,OC,-40.900557,174.885971
+158,Nicaragua,Nicaragua,Managua,NA,12.865416,-85.207229
+159,Niger,Niger,Niamey,AF,17.607789,8.081666
+160,Nigeria,Nigeria,Abuja,AF,9.081999,8.675277
+161,Niue,Niue,Alofi,OC,-19.054445,-169.867233
+162,Norfolk Island,Norfolk Island,Kingston,OC,-29.040835,167.954712
+163,North Korea,Democratic People's Republic of Korea,Pyongyang,AS,40.339852,127.510093
+164,Northern Mariana Islands,Northern Mariana Islands,Saipan,OC,15.0979,145.6739
+165,Norway,Norway,Oslo,EU,60.472024,8.468946
+166,Oman,Oman,Muscat,AS,21.4735329,55.975413
+167,Pakistan,Pakistan,Islamabad,AS,30.375321,69.345116
+168,Palau,Palau,Melekeok,OC,7.51498,134.58252
+169,Palestine,State of Palestine,East Jerusalem,AS,31.952162,35.233154
+170,Panama,Panama,Panama City,NA,8.537981,-80.782127
+171,Papua New Guinea,Papua New Guinea,Port Moresby,OC,-6.314993,143.95555
+172,Paraguay,Paraguay,Asuncion,SA,-23.442503,-58.443832
+173,Peru,Peru,Lima,SA,-9.189967,-75.015152
+174,Philippines,Philippines,Manila,AS,12.879721,121.774017
+175,Pitcairn Islands,Pitcairn,Adamstown,OC,-24.3767537,-128.3242376
+176,Poland,Poland,Warsaw,EU,51.919438,19.145136
+177,Portugal,Portugal,Lisbon,EU,39.399872,-8.224454
+178,Puerto Rico,Puerto Rico,San Juan,NA,18.220833,-66.590149
+179,Qatar,Qatar,Doha,AS,25.354826,51.183884
+180,Romania,Romania,Bucharest,EU,45.943161,24.96676
+181,Russia,Russian Federation,Moscow,EU,61.52401,105.318756
+182,Rwanda,Rwanda,Kigali,AF,-1.940278,29.873888
+183,Réunion,Réunion,Saint-Denis,AF,-21.115141,55.536384
+184,Samoa,Samoa,Apia,OC,-13.759029,-172.104629
+185,San Marino,San Marino,San Marino,EU,43.94236,12.457777
+186,Saudi Arabia,Saudi Arabia,Riyadh,AS,23.885942,45.079162
+187,Senegal,Senegal,Dakar,AF,14.497401,-14.452362
+188,Serbia,Serbia,Belgrade,EU,44.016521,21.005859
+189,Seychelles,Seychelles,Victoria,AF,-4.679574,55.491977
+190,Sierra Leone,Sierra Leone,Freetown,AF,8.460555,-11.779889
+191,Singapore,Singapore,Singapore,AS,1.352083,103.819836
+192,Sint Maarten,Sint Maarten (Dutch part),Philipsburg,NA,18.04248,-63.05483
+193,Slovakia,Slovakia,Bratislava,EU,48.669026,19.699024
+194,Slovenia,Slovenia,Ljubljana,EU,46.151241,14.995463
+195,Solomon Islands,Solomon Islands,Honiara,OC,-9.64571,160.156194
+196,Somalia,Somalia,Mogadishu,AF,5.152149,46.199616
+197,South Africa,South Africa,Pretoria,AF,-30.559482,22.937506
+198,South Georgia & South Sandwich Islands,,Grytviken,AN,-54.429579,-36.587909
+199,South Korea,Republic of Korea,Seoul,AS,35.907757,127.766922
+200,South Sudan,South Sudan,Juba,AF,6.8769919,31.3069788
+201,Spain,Spain,Madrid,EU,40.463667,-3.74922
+202,Sri Lanka,Sri Lanka,Colombo,AS,7.873054,80.771797
+203,St. Barthélemy,Saint Barthélemy,Gustavia,NA,17.9,-62.833333
+204,St. Helena,Saint Helena,Jamestown,AF,-15.9650104,-5.7089241
+205,St. Kitts & Nevis,Saint Kitts and Nevis,Basseterre,NA,17.357822,-62.782998
+206,St. Lucia,Saint Lucia,Castries,NA,13.909444,-60.978893
+207,St. Martin,Saint Martin (French part),Marigot,NA,18.0708298,-63.0500809
+208,St. Pierre & Miquelon,Saint Pierre and Miquelon,Saint-Pierre,NA,46.8852,-56.3159
+209,St. Vincent & Grenadines,Saint Vincent and the Grenadines,Kingstown,NA,12.984305,-61.287228
+210,Sudan,Sudan,Khartoum,AF,12.862807,30.217636
+211,Suriname,Suriname,Paramaribo,SA,3.919305,-56.027783
+212,Svalbard & Jan Mayen,Svalbard and Jan Mayen Islands,Longyearbyen,EU,77.553604,23.6702719
+213,Swaziland,Swaziland,Mbabane,AF,-26.522503,31.465866
+214,Sweden,Sweden,Stockholm,EU,60.128161,18.643501
+215,Switzerland,Switzerland,Bern,EU,46.818188,8.227512
+216,Syria,Syrian Arab Republic,Damascus,AS,34.802075,38.996815
+217,São Tomé & Príncipe,Sao Tome and Principe,Sao Tome,AF,0.18636,6.613081
+218,Taiwan,,Taipei,AS,23.69781,120.960515
+219,Tajikistan,Tajikistan,Dushanbe,AS,38.861034,71.276093
+220,Tanzania,United Republic of Tanzania,Dodoma,AF,-6.369028,34.888822
+221,Thailand,Thailand,Bangkok,AS,15.870032,100.992541
+222,Timor-Leste,Timor-Leste,Dili,OC,-8.874217,125.727539
+223,Togo,Togo,Lome,AF,8.619543,0.824782
+224,Tokelau,Tokelau,,OC,-9.2002,-171.8484
+225,Tonga,Tonga,Nuku'alofa,OC,-21.178986,-175.198242
+226,Trinidad & Tobago,Trinidad and Tobago,Port of Spain,NA,10.691803,-61.222503
+227,Tunisia,Tunisia,Tunis,AF,33.886917,9.537499
+228,Turkey,Turkey,Ankara,AS,38.963745,35.243322
+229,Turkmenistan,Turkmenistan,Ashgabat,AS,38.969719,59.556278
+230,Turks & Caicos Islands,Turks and Caicos Islands,Cockburn Town,NA,21.694025,-71.797928
+231,Tuvalu,Tuvalu,Funafuti,OC,-7.109535,177.64933
+232,U.S. Outlying Islands,,,OC,19.2823192,166.647047
+233,U.S. Virgin Islands,United States Virgin Islands,Charlotte Amalie,NA,18.335765,-64.896335
+234,UK,United Kingdom of Great Britain and Northern Ireland,London,EU,55.378051,-3.435973
+235,United States,United States of America,Washington,NA,40.7605367,-73.9788903
+236,Uganda,Uganda,Kampala,AF,1.373333,32.290275
+237,Ukraine,Ukraine,Kiev,EU,48.379433,31.1655799
+238,United Arab Emirates,United Arab Emirates,Abu Dhabi,AS,23.424076,53.847818
+239,Uruguay,Uruguay,Montevideo,SA,-32.522779,-55.765835
+240,Uzbekistan,Uzbekistan,Tashkent,AS,41.377491,64.585262
+241,Vanuatu,Vanuatu,Port Vila,OC,-15.376706,166.959158
+242,Vatican City,Holy See,Vatican City,EU,41.902916,12.453389
+243,Venezuela,Venezuela (Bolivarian Republic of),Caracas,SA,6.42375,-66.58973
+244,Vietnam,Viet Nam,Hanoi,AS,14.058324,108.277199
+245,Wallis & Futuna,Wallis and Futuna Islands,Mata Utu,OC,-14.2938,-178.1165
+246,Western Sahara,Western Sahara,El-Aaiun,AF,24.215527,-12.885834
+247,Yemen,Yemen,Sanaa,AS,15.552727,48.516388
+248,Zambia,Zambia,Lusaka,AF,-13.133897,27.849332
+249,Zimbabwe,Zimbabwe,Harare,AF,-19.015438,29.154857
+250,Åland Islands,Åland Islands,Mariehamn,EU,60.1785247,19.9156105
